@@ -1,2 +1,3 @@
-from flask import Flask
+fom flask import Flask
 
+app = Flask(__name__)
